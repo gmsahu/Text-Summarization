@@ -23,9 +23,9 @@ python app.py
 Now,
 
 open up you local host and port
-Author: Krish Naik
+Author: Gayatri Sahu
 Data Scientist
-Email: krishnaik06@gmail.com
+Email: gmanjari77@gmail.com
 AWS-CICD-Deployment-with-Github-Actions
 1. Login to AWS console.
 2. Create IAM user for deployment
